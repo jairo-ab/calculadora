@@ -1,0 +1,252 @@
+
+        body{
+            background: darkorchid;
+        }
+        .fundo{
+            position: absolute;
+            top: 80px;
+            left: 107px;
+            width: 300px;
+            height: 400px;
+            background: rgb(240, 182, 255);
+        }
+        h1.title{
+            position: absolute;
+            top: 30px;
+            left:140px;
+            color: white;
+        }
+        #visor{
+            width: 180px;
+            height: 50px;
+            position: absolute;
+            top: 135px;
+            left: 130px;
+            border-radius: 5px;
+            text-shadow: 0 1px 1px rgba(60, 0, 255, 0.2);
+            background: rgb(252, 255, 250);
+        }
+        .button-success0 {
+            color: white;
+            border-radius: 4px;
+            width: 125px;
+            height: 60px;
+            position: absolute;
+            top: 410px;
+            left: 130px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success0 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success1 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 340px;
+            left: 130px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success1 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success2 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 340px;
+            left: 195px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success2{
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success3 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 340px;
+            left: 260px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success3 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success4 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 270px;
+            left: 130px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success4 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success5 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 270px;
+            left: 195px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success5 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success6 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 270px;
+            left: 260px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success6 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success7 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 200px;
+            left: 130px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success7 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success8 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 200px;
+            left: 195px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success8{
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success9 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 200px;
+            left: 260px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success9 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success10 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 410px;
+            left: 260px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success10 {
+            background: rgb(167, 7, 7);
+            /* this is a green */
+        }
+        .button-success11 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 340px;
+            left: 325px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success11 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success12 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 270px;
+            left: 325px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success12 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success13 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 200px;
+            left: 325px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success13 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success14 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 135px;
+            left: 325px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success14 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }
+        .button-success15 {
+            color: white;
+            border-radius: 4px;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            top: 410px;
+            left: 325px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+        .button-success15 {
+            background: rgb(28, 184, 65);
+            /* this is a green */
+        }

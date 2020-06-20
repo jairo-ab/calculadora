@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <p class="fundo"></p>
+    <h1 class="title">Calculadora</h1>
+    <!--<button id="btn0" class="button-success0" value="0" onclick="tela()">0</button>-->
+    <input type="button" name="num0" class="button-success0" value="0" onclick="calcNum(value)"/>
+    <!--<button id="btn1" class="button-success1">1</button>-->
+    <input type="button" name="num1" class="button-success1" value="1" onclick="calcNum(value)"/>
+    <!--<button id="btn2" class="button-success2">2</button>-->
+    <input type="button" name="num2" class="button-success2" value="2" onclick="calcNum(value)"/>
+    <!--<button id="btn3" class="button-success3">3</button>-->
+    <input type="button" name="num3" class="button-success3" value="3" onclick="calcNum(value)"/>
+    <!--<button id="btn4" class="button-success4">4</button>-->
+    <input type="button" name="num4" class="button-success4" value="4" onclick="calcNum(value)"/>
+    <!--<button id="btn5" class="button-success5">5</button>-->
+    <input type="button" name="num5" class="button-success5" value="5" onclick="calcNum(value)"/>
+    <!--<button id="btn6" class="button-success6">6</button>-->
+    <input type="button" name="num6" class="button-success6" value="6" onclick="calcNum(value)"/>
+    <!--<button id="btn7" class="button-success7">7</button>-->
+    <input type="button" name="num7" class="button-success7" value="7" onclick="calcNum(value)"/>
+    <!--<button id="btn8" class="button-success8">8</button>-->
+    <input type="button" name="num8" class="button-success8" value="8" onclick="calcNum(value)"/>
+    <!--<button id="btn9" class="button-success9">9</button>-->
+    <input type="button" name="num9" class="button-success9" value="9" onclick="calcNum(value)"/>
+    <input type="submit" class="button-success10" value="C" onclick="limpar();"/>
+    <input type="submit" value="+" class="button-success11" onclick="calcNum(value)"/>
+    <input type="submit" value="-" class="button-success12" onclick="calcNum(value)"/>
+    <input type="submit" value="/" class="button-success13" onclick="calcNum(value)"/>
+    <input type="submit" value="*" class="button-success14" onclick="calcNum(value)"/>
+    <input type="submit" value="=" class="button-success15" onclick="calcular();"/>
+    <input type="text" id="visor" />
+</body>
+<script src="/calc.js"></script>
+</html> 
